@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StatsRiser/StatsRiser.iml" filepath="$PROJECT_DIR$/StatsRiser/StatsRiser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StatsRiser-android/StatsRiser-android.iml" filepath="$PROJECT_DIR$/StatsRiser-android/StatsRiser-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StatsRiser-desktop/StatsRiser-desktop.iml" filepath="$PROJECT_DIR$/StatsRiser-desktop/StatsRiser-desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StatsRiser-html/StatsRiser-html.iml" filepath="$PROJECT_DIR$/StatsRiser-html/StatsRiser-html.iml" />
+    </modules>
+  </component>
+</project>
+

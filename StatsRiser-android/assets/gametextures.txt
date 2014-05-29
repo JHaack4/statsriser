@@ -1,0 +1,95 @@
+gametextures.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gamebgike
+  rotate: false
+  xy: 484, 0
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+movingplatike
+  rotate: false
+  xy: 730, 804
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+pauseicon
+  rotate: false
+  xy: 44, 861
+  size: 40, 40
+  orig: 50, 50
+  offset: 5, 5
+  index: -1
+basicplatike
+  rotate: false
+  xy: 812, 804
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+superplatike
+  rotate: false
+  xy: 484, 804
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+guyeike
+  rotate: false
+  xy: 2, 861
+  size: 40, 54
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+guyrike
+  rotate: false
+  xy: 978, 804
+  size: 40, 55
+  orig: 40, 57
+  offset: 0, 0
+  index: -1
+pause
+  rotate: false
+  xy: 2, 2
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 2, 804
+  size: 480, 5
+  orig: 480, 5
+  offset: 0, 0
+  index: -1
+guylike
+  rotate: false
+  xy: 936, 804
+  size: 40, 55
+  orig: 40, 57
+  offset: 0, 0
+  index: -1
+vanishplatike
+  rotate: false
+  xy: 648, 804
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+guysike
+  rotate: false
+  xy: 894, 804
+  size: 40, 55
+  orig: 40, 57
+  offset: 0, 0
+  index: -1
+riserplatike
+  rotate: false
+  xy: 566, 804
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
